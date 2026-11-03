@@ -1,6 +1,6 @@
 import random
 
-character = "+-/*!&$#?=@abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
+character = "password1234"
 
 longitud = int(input("Introduce la longitud de la contraseña: "))
 
